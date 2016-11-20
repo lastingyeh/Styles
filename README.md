@@ -1,4 +1,5 @@
-Layouts demo
+Layouts Demo
 
-reference list by https://github.com/bonniee/learning-react-native/tree/master/Styles.
+reference list
+1.https://github.com/bonniee/learning-react-native/tree/master/Styles.
 

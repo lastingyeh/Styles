@@ -11,5 +11,6 @@ import {
 
 import FlexDemo from './FlexDemo';
 import Mondrian from './Mondrian';
+import LayoutMain from './Layout_main';
 
-AppRegistry.registerComponent('Styles', () => Mondrian);
+AppRegistry.registerComponent('Styles', () => LayoutMain);
